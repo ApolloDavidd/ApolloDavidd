@@ -1,7 +1,7 @@
 
 
 <div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb1f6a&height=200&section=header" >
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb1f6a&height=200&section=header&text=Apollo+David&fontColor=ffffff&animation=fadeIn&fontSize=70" >
 <img  id="object1" src="https://readme-typing-svg.herokuapp.com/?color=eb1f6a&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello;My+name+is+Apollo+David;I'm+from+Brazil;I+am+18+years+old;Welcome+to+my+profile!" style="max-width: 100%;">
   
   </div>
