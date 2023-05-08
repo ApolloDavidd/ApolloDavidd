@@ -20,8 +20,8 @@
   <img height="35em"src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apollo-david-67b26a237/" style="max-width: 100%;">
   </a>
   
-  <a href="business.apollodav@gmail.com" alt="Gmail" rel="nofollow">
-  <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;link=business.apollodav@gmail.com" style="max-width: 100%;">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDrxbtMNXXtZWWRDwVzrXnjQCLHJWSZFcZfmBljFFsfRZwcdNXPZdTdWxWJnTwRBSmBCW" alt="Gmail" rel="nofollow">
+  <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;link=https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDrxbtMNXXtZWWRDwVzrXnjQCLHJWSZFcZfmBljFFsfRZwcdNXPZdTdWxWJnTwRBSmBCW" style="max-width: 100%;">
   </a>
   
   </div>
