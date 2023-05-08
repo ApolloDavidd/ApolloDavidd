@@ -8,7 +8,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApolloDavidd&amp;show_icons=true&amp;theme=monokai&amp;" style="max-width: 100%;">
 
-  <img width="380px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;"  style="max-width=380px;"  />
       
   </div>
 <a href="https://www.instagram.com/apollodavidd/" alt="Instagram" rel="nofollow">
