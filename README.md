@@ -20,8 +20,6 @@
   <img height="35em"src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apollo-david-67b26a237/" style="max-width: 100%;">
   </a>
   
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail" rel="nofollow">
-  <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" style="max-width: 100%;">
-  </a>
+  
   </div>
   
