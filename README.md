@@ -6,8 +6,8 @@
   
   </div>
 <div>
-  
-![Apollo GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloDavidd&show_icons=true&theme=monokai&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApolloDavidd&amp;show_icons=true&amp;theme=monokai&amp;" style="max-width: 100%;">
+
   <img width="380px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;" />
       
   </div>
