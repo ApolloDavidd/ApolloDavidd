@@ -8,7 +8,7 @@
 <div>
   
 ![Apollo GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloDavidd&show_icons=true&theme=monokai&show_icons=true)
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;" />
+  <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;" />
       
   </div>
 <a href="https://www.instagram.com/apollodavidd/" alt="Instagram" rel="nofollow">
