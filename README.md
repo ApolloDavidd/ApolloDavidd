@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=eb1f6a&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello;My+name+is+Apollo+David;I'm+from+Brazil;I+am+18+years+old;Welcome+to+my+profile!" style="max-width: 100%;">
 <div>
   
-![Apollo GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloDavidd&show_icons=true&theme=monokai)
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai" />
+![Apollo GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloDavidd&show_icons=true&theme=monokai&show_icons=true)
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;" />
       
   </div>
 <a href="https://www.instagram.com/apollodavidd/" alt="Instagram" rel="nofollow">
