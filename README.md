@@ -13,15 +13,15 @@
   </div>
   <div align="center">
 <a href="https://www.instagram.com/apollodavidd/" alt="Instagram" rel="nofollow">
-   <img height="35em"src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&amp;labelColor=DF0174&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/apollodavidd/" style="max-width: 100%;">
+   <img height="35em"src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff;link=https://www.instagram.com/apollodavidd/" style="max-width: 100%;">
   </a>
   
   <a href="https://www.linkedin.com/in/apollo-david-67b26a237/" alt="Linkedin" rel="nofollow">
-  <img height="35em"src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apollo-david-67b26a237/" style="max-width: 100%;">
+  <img height="35em"src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&amp;logo=Linkedin&amp;logoColor=ffff&amp;link=https://www.linkedin.com/in/apollo-david-67b26a237/" style="max-width: 100%;">
   </a>
   
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDrxbtMNXXtZWWRDwVzrXnjQCLHJWSZFcZfmBljFFsfRZwcdNXPZdTdWxWJnTwRBSmBCW" alt="Gmail" rel="nofollow">
-  <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white;link=https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDrxbtMNXXtZWWRDwVzrXnjQCLHJWSZFcZfmBljFFsfRZwcdNXPZdTdWxWJnTwRBSmBCW" style="max-width: 100%;">
+  <img height="35em" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff;link=https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDrxbtMNXXtZWWRDwVzrXnjQCLHJWSZFcZfmBljFFsfRZwcdNXPZdTdWxWJnTwRBSmBCW" style="max-width: 100%;">
   </a>
   
   </div>
