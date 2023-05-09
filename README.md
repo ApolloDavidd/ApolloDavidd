@@ -11,6 +11,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloDavidd&amp;layout=compact&amp;langs_count=7&amp;theme=monokai&amp;"  style="max-width=100%;"  />
       
   </div>
+  
+  <div align="center">
+  <h3> Códigos que estou aprendendo </h3>
+  </div>
+  
+  <div align="center">
+            <img height="50px" width"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;" />
+            <img height="50px" width"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;" />
+            <img height="50px" width"50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;" />  
+  
+
+ <br>
+  <br>
+
+
+
+</div>
+  
   <div align="center">
 <a href="https://www.instagram.com/apollodavidd/" alt="Instagram" rel="nofollow">
    <img height="35em"src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&amp;logoColor=ffffff" style="max-width: 100%;">
@@ -24,7 +42,7 @@
   <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
    
   </a>
-  
+ 
   
   </div>
   
