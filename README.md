@@ -13,7 +13,7 @@
   </div>
   
   <div align="center">
-  <h3> Codes i am learning </h3>
+  <h3> Learning </h3>
   </div>
   
   <div align="center">
